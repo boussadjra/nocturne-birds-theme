@@ -1,0 +1,30 @@
+{
+    "name": "dark-wolf",
+    "displayName": "Dark wolf",
+    "description": "Dark wolf color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.46.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+                "label": "Dark wolf",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-wolf-color-theme.json"
+            },
+            {
+                "label": "Dark wolf 1",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-wolf1-color-theme.json"
+            },
+            {
+                "label": "Dark wolf 2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-wolf2-color-theme.json"
+            }
+        ]
+    }
+}
