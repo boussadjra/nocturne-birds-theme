@@ -1,7 +1,7 @@
 {
-    "name": "nocture-birds",
-    "displayName": "Nocture birds",
-    "description": "Nocture birds color theme for  nocture coders",
+    "name": "nocturne-birds",
+    "displayName": "Nocturne birds",
+    "description": "Nocturne birds color theme for  nocturne coders",
     "version": "0.3.0",
     "engines": {
         "vscode": "^1.43.0"
@@ -9,28 +9,27 @@
     "publisher": "BoussadjraBrahim",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/boussadjra/nocture-birds-theme.git"
+        "url": "git+https://github.com/boussadjra/nocturne-birds-theme.git"
     },
     "icon": "bird.png",
     "categories": [
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
-                "label": "Nocture birds",
+        "themes": [{
+                "label": "Nocturne birds",
                 "uiTheme": "vs-dark",
-                "path": "./themes/nocture-birds-color-theme.json"
+                "path": "./themes/nocturne-birds-color-theme.json"
             },
             {
-                "label": "Nocture birds 1",
+                "label": "Nocturne birds 1",
                 "uiTheme": "vs-dark",
-                "path": "./themes/nocture-birds1-color-theme.json"
+                "path": "./themes/nocturne-birds1-color-theme.json"
             },
             {
-                "label": "Nocture birds 2",
+                "label": "Nocturne birds 2",
                 "uiTheme": "vs-dark",
-                "path": "./themes/nocture-birds2-color-theme.json"
+                "path": "./themes/nocturne-birds2-color-theme.json"
             }
         ]
     }
