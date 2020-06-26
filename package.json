@@ -2,7 +2,7 @@
     "name": "nocture-birds",
     "displayName": "Nocture birds",
     "description": "Nocture birds color theme for  nocture coders",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "engines": {
         "vscode": "^1.43.0"
     },
@@ -15,7 +15,8 @@
         "Themes"
     ],
     "contributes": {
-        "themes": [{
+        "themes": [
+            {
                 "label": "Nocture birds",
                 "uiTheme": "vs-dark",
                 "path": "./themes/nocture-birds-color-theme.json"
