@@ -21,7 +21,7 @@ A Visual Studio Code theme with elegant colors based on good contrast.
  ![react](previews/react.png)
 
  ## Angular
- ![Angular](previews/Angular.png)
+ ![Angular](previews/angular.png)
 
  ## Python
- ![Python](previews/Python.png)
+ ![Python](previews/python.png)
