@@ -11,12 +11,12 @@
         "type": "git",
         "url": "git+https://github.com/boussadjra/nocture-birds-theme.git"
     },
+    "icon": "bird.png",
     "categories": [
         "Themes"
     ],
     "contributes": {
-        "themes": [
-            {
+        "themes": [{
                 "label": "Nocture birds",
                 "uiTheme": "vs-dark",
                 "path": "./themes/nocture-birds-color-theme.json"
