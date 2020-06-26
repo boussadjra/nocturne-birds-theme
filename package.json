@@ -1,29 +1,34 @@
 {
-    "name": "dark-wolf",
-    "displayName": "Dark wolf",
-    "description": "Dark wolf color theme",
-    "version": "0.0.1",
+    "name": "nocture-birds",
+    "displayName": "Nocture birds",
+    "description": "Nocture birds color theme for  nocture coders",
+    "version": "0.1.0",
     "engines": {
-        "vscode": "^1.46.0"
+        "vscode": "^1.43.0"
+    },
+    "publisher": "BoussadjraBrahim",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/boussadjra/nocture-birds-theme.git"
     },
     "categories": [
         "Themes"
     ],
     "contributes": {
         "themes": [{
-                "label": "Dark wolf",
+                "label": "Nocture birds",
                 "uiTheme": "vs-dark",
-                "path": "./themes/dark-wolf-color-theme.json"
+                "path": "./themes/nocture-birds-color-theme.json"
             },
             {
-                "label": "Dark wolf 1",
+                "label": "Nocture birds 1",
                 "uiTheme": "vs-dark",
-                "path": "./themes/dark-wolf1-color-theme.json"
+                "path": "./themes/nocture-birds1-color-theme.json"
             },
             {
-                "label": "Dark wolf 2",
+                "label": "Nocture birds 2",
                 "uiTheme": "vs-dark",
-                "path": "./themes/dark-wolf2-color-theme.json"
+                "path": "./themes/nocture-birds2-color-theme.json"
             }
         ]
     }
